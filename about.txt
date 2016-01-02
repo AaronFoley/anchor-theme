@@ -1,0 +1,5 @@
+Theme name:    Aaronfoley.net
+Description:   
+Author name:   Aaron Foley
+Author site:   https://aaronfoley.net
+License:       http://licence.visualidiot.com
