@@ -40,7 +40,16 @@ p {
     padding-bottom: 15px;
 }
 
-a, article h1 a:hover {
+a {
+    text-decoration: none;
+    color: #F44336;
+}
+
+a:hover {
+    text-decoration: underline
+}
+
+article h1 a:hover {
     text-decoration: underline;
 }
 

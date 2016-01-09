@@ -16,7 +16,7 @@
             <span class="post-date">Posted <?php echo article_date(); ?> by <?php echo article_author(); ?>.</span>
 
             <div class="content">
-                <?php echo article_markdown(); ?>
+                <?php echo article_description(); ?>
             </div>
 
         </article>
