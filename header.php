@@ -79,7 +79,7 @@
             	</ul>
             </div>
 
-            <p>&copy; <?php echo date('Y'); ?> <?php echo site_name(); ?>. All rights reserved.</p>
+            <p class="copyright">&copy; <?php echo date('Y'); ?> <?php echo site_name(); ?>. All rights reserved.</p>
         </div>
 
    		<div id="content" class="content">
