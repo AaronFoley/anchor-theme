@@ -217,5 +217,5 @@ article h1 a {
 }
 
 p.copyright {
-        font-size: 15px;
+    font-size: 15px !important;
 }
