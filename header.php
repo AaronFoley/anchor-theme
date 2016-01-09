@@ -53,7 +53,7 @@
             		<?php if(has_menu_items()):
 						  while(menu_items()): ?>
 					<li <?php echo (menu_active() ? 'class="active"' : ''); ?>>
-                        <a href="<?php echo menu_url(); ?>" title="<?php echo menu_title(); ?>"  <?php echo (substr(menu_url(),0,4) == '/ext-' ? 'target="_blank"' : ''); ?> >
+                        <a href="<?php echo menu_url(); ?>" title="<?php echo menu_title(); ?>"  <?php echo (substr(menu_url(),0,5) == '/ext-' ? 'target="_blank"' : ''); ?> >
 							<?php echo menu_name(); ?>
 						</a>
                     </li>
