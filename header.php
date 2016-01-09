@@ -77,6 +77,7 @@
                     </li>
 					<?php } endwhile; ?>
             	</ul>
+            </div>
 
             <p>&copy; <?php echo date('Y'); ?> <?php echo site_name(); ?>. All rights reserved.</p>
         </div>
