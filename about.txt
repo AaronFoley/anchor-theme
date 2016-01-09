@@ -1,5 +1,5 @@
 Theme name:    Aaronfoley.net
-Description:   
+Description:   Personal theme for blog
 Author name:   Aaron Foley
 Author site:   https://aaronfoley.net
 License:       http://licence.visualidiot.com
