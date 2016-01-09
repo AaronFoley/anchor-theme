@@ -59,6 +59,11 @@
                     </li>
                 	<?php endwhile;
 						  endif; ?>
+                    <li>
+                        <a href="<?php echo rss_url(); ?>" title="RSS">
+                            RSS
+                        </a>
+                    </li>
             	</ul>
             </nav>
 
